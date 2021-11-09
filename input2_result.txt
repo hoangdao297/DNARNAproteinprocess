@@ -1,0 +1,385 @@
+Aminoacid in main strand: 
+Aminoacid code in main strand: 
+Amino acid count in main strand: 0
+Aminoacid in op strand: 
+Aminoacid code in op strand: 
+Amino acid count in op strand: 0
+
+Aminoacid in main strand: 
+Aminoacid code in main strand: 
+Amino acid count in main strand: 0
+Aminoacid in op strand: 
+Aminoacid code in op strand: 
+Amino acid count in op strand: 0
+
+Aminoacid in main strand: 
+Aminoacid code in main strand: 
+Amino acid count in main strand: 0
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-
+Amino acid count in op strand: 10
+
+Aminoacid in main strand: 
+Aminoacid code in main strand: 
+Amino acid count in main strand: 0
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-
+Amino acid count in op strand: 19
+
+Aminoacid in main strand: 
+Aminoacid code in main strand: 
+Amino acid count in main strand: 0
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-
+Amino acid count in op strand: 19
+
+Aminoacid in main strand: 
+Aminoacid code in main strand: 
+Amino acid count in main strand: 0
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-
+Amino acid count in op strand: 30
+
+Aminoacid in main strand: 
+Aminoacid code in main strand: 
+Amino acid count in main strand: 0
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-
+Amino acid count in op strand: 30
+
+Aminoacid in main strand: 
+Aminoacid code in main strand: 
+Amino acid count in main strand: 0
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-
+Amino acid count in op strand: 30
+
+Aminoacid in main strand: 
+Aminoacid code in main strand: 
+Amino acid count in main strand: 0
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-
+Amino acid count in op strand: 30
+
+Aminoacid in main strand: 
+Aminoacid code in main strand: 
+Amino acid count in main strand: 0
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-
+Amino acid count in op strand: 30
+
+Aminoacid in main strand: 
+Aminoacid code in main strand: 
+Amino acid count in main strand: 0
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-
+Amino acid count in op strand: 30
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-
+Amino acid count in main strand: 11
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-
+Amino acid count in op strand: 30
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-
+Amino acid count in main strand: 13
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-
+Amino acid count in op strand: 30
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-
+Amino acid count in main strand: 13
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-
+Amino acid count in op strand: 30
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-
+Amino acid count in main strand: 13
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-
+Amino acid count in op strand: 36
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-
+Amino acid count in main strand: 13
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-
+Amino acid count in op strand: 50
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-
+Amino acid count in main strand: 20
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-
+Amino acid count in op strand: 50
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-
+Amino acid count in main strand: 20
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-
+Amino acid count in op strand: 50
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-
+Amino acid count in main strand: 27
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-
+Amino acid count in op strand: 50
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-
+Amino acid count in main strand: 27
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-
+Amino acid count in op strand: 50
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-
+Amino acid count in main strand: 27
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-
+Amino acid count in op strand: 50
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-
+Amino acid count in main strand: 36
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-
+Amino acid count in op strand: 57
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-
+Amino acid count in main strand: 36
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-
+Amino acid count in op strand: 57
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-
+Amino acid count in main strand: 52
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-
+Amino acid count in op strand: 57
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-
+Amino acid count in main strand: 52
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-
+Amino acid count in op strand: 57
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-
+Amino acid count in main strand: 68
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-
+Amino acid count in op strand: 59
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-
+Amino acid count in main strand: 68
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-
+Amino acid count in op strand: 59
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-
+Amino acid count in main strand: 77
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-
+Amino acid count in op strand: 59
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-
+Amino acid count in main strand: 77
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-
+Amino acid count in op strand: 59
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-
+Amino acid count in main strand: 77
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-
+Amino acid count in op strand: 61
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-
+Amino acid count in main strand: 77
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-
+Amino acid count in op strand: 68
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-
+Amino acid count in main strand: 77
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-
+Amino acid count in op strand: 68
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-
+Amino acid count in main strand: 77
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-
+Amino acid count in op strand: 68
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-
+Amino acid count in main strand: 77
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-
+Amino acid count in op strand: 68
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-
+Amino acid count in main strand: 77
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-
+Amino acid count in op strand: 77
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-
+Amino acid count in main strand: 77
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-
+Amino acid count in op strand: 77
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-
+Amino acid count in main strand: 77
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-
+Amino acid count in op strand: 77
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-
+Amino acid count in main strand: 79
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-
+Amino acid count in op strand: 77
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-
+Amino acid count in main strand: 79
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-
+Amino acid count in op strand: 77
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys-met-arg-thr-lys-asn
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-M-R-T-K-N-
+Amino acid count in main strand: 84
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-
+Amino acid count in op strand: 77
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys-met-arg-thr-lys-asn
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-M-R-T-K-N-
+Amino acid count in main strand: 84
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-
+Amino acid count in op strand: 77
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys-met-arg-thr-lys-asn
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-M-R-T-K-N-
+Amino acid count in main strand: 84
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-
+Amino acid count in op strand: 77
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys-met-arg-thr-lys-asn
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-M-R-T-K-N-
+Amino acid count in main strand: 84
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-
+Amino acid count in op strand: 77
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys-met-arg-thr-lys-asn
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-M-R-T-K-N-
+Amino acid count in main strand: 84
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-
+Amino acid count in op strand: 77
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys-met-arg-thr-lys-asn
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-M-R-T-K-N-
+Amino acid count in main strand: 84
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn-met-ile-ala-leu-ser-thr-lys-ile-asn-ser-phe
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-M-I-A-L-S-T-K-I-N-S-F-
+Amino acid count in op strand: 88
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys-met-arg-thr-lys-asn-met-val
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-M-R-T-K-N-M-V-
+Amino acid count in main strand: 86
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn-met-ile-ala-leu-ser-thr-lys-ile-asn-ser-phe-met-arg-cys
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-M-I-A-L-S-T-K-I-N-S-F-M-R-C-
+Amino acid count in op strand: 91
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys-met-arg-thr-lys-asn-met-val
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-M-R-T-K-N-M-V-
+Amino acid count in main strand: 86
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn-met-ile-ala-leu-ser-thr-lys-ile-asn-ser-phe-met-arg-cys
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-M-I-A-L-S-T-K-I-N-S-F-M-R-C-
+Amino acid count in op strand: 91
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys-met-arg-thr-lys-asn-met-val-met-ala-his-thr-gly-leu
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-M-R-T-K-N-M-V-M-A-H-T-G-L-
+Amino acid count in main strand: 92
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn-met-ile-ala-leu-ser-thr-lys-ile-asn-ser-phe-met-arg-cys-met-ile-cys-gly-ser
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-M-I-A-L-S-T-K-I-N-S-F-M-R-C-M-I-C-G-S-
+Amino acid count in op strand: 96
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys-met-arg-thr-lys-asn-met-val-met-ala-his-thr-gly-leu-met-leu
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-M-R-T-K-N-M-V-M-A-H-T-G-L-M-L-
+Amino acid count in main strand: 94
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn-met-ile-ala-leu-ser-thr-lys-ile-asn-ser-phe-met-arg-cys-met-ile-cys-gly-ser
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-M-I-A-L-S-T-K-I-N-S-F-M-R-C-M-I-C-G-S-
+Amino acid count in op strand: 96
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys-met-arg-thr-lys-asn-met-val-met-ala-his-thr-gly-leu-met-leu-met-leu-ile
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-M-R-T-K-N-M-V-M-A-H-T-G-L-M-L-M-L-I-
+Amino acid count in main strand: 97
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn-met-ile-ala-leu-ser-thr-lys-ile-asn-ser-phe-met-arg-cys-met-ile-cys-gly-ser-met-tyr-asp-ser
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-M-I-A-L-S-T-K-I-N-S-F-M-R-C-M-I-C-G-S-M-Y-D-S-
+Amino acid count in op strand: 100
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys-met-arg-thr-lys-asn-met-val-met-ala-his-thr-gly-leu-met-leu-met-leu-ile-met-leu-gln-leu
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-M-R-T-K-N-M-V-M-A-H-T-G-L-M-L-M-L-I-M-L-Q-L-
+Amino acid count in main strand: 101
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn-met-ile-ala-leu-ser-thr-lys-ile-asn-ser-phe-met-arg-cys-met-ile-cys-gly-ser-met-tyr-asp-ser
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-M-I-A-L-S-T-K-I-N-S-F-M-R-C-M-I-C-G-S-M-Y-D-S-
+Amino acid count in op strand: 100
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys-met-arg-thr-lys-asn-met-val-met-ala-his-thr-gly-leu-met-leu-met-leu-ile-met-leu-gln-leu-met-ser-ser-ile
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-M-R-T-K-N-M-V-M-A-H-T-G-L-M-L-M-L-I-M-L-Q-L-M-S-S-I-
+Amino acid count in main strand: 105
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn-met-ile-ala-leu-ser-thr-lys-ile-asn-ser-phe-met-arg-cys-met-ile-cys-gly-ser-met-tyr-asp-ser-met-ala-ile-leu-tyr-thr-ala-his-thr-phe-gln-val-leu-gly-asp-arg
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-M-I-A-L-S-T-K-I-N-S-F-M-R-C-M-I-C-G-S-M-Y-D-S-M-A-I-L-Y-T-A-H-T-F-Q-V-L-G-D-R-
+Amino acid count in op strand: 116
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys-met-arg-thr-lys-asn-met-val-met-ala-his-thr-gly-leu-met-leu-met-leu-ile-met-leu-gln-leu-met-ser-ser-ile
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-M-R-T-K-N-M-V-M-A-H-T-G-L-M-L-M-L-I-M-L-Q-L-M-S-S-I-
+Amino acid count in main strand: 105
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn-met-ile-ala-leu-ser-thr-lys-ile-asn-ser-phe-met-arg-cys-met-ile-cys-gly-ser-met-tyr-asp-ser-met-ala-ile-leu-tyr-thr-ala-his-thr-phe-gln-val-leu-gly-asp-arg
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-M-I-A-L-S-T-K-I-N-S-F-M-R-C-M-I-C-G-S-M-Y-D-S-M-A-I-L-Y-T-A-H-T-F-Q-V-L-G-D-R-
+Amino acid count in op strand: 116
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys-met-arg-thr-lys-asn-met-val-met-ala-his-thr-gly-leu-met-leu-met-leu-ile-met-leu-gln-leu-met-ser-ser-ile
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-M-R-T-K-N-M-V-M-A-H-T-G-L-M-L-M-L-I-M-L-Q-L-M-S-S-I-
+Amino acid count in main strand: 105
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn-met-ile-ala-leu-ser-thr-lys-ile-asn-ser-phe-met-arg-cys-met-ile-cys-gly-ser-met-tyr-asp-ser-met-ala-ile-leu-tyr-thr-ala-his-thr-phe-gln-val-leu-gly-asp-arg
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-M-I-A-L-S-T-K-I-N-S-F-M-R-C-M-I-C-G-S-M-Y-D-S-M-A-I-L-Y-T-A-H-T-F-Q-V-L-G-D-R-
+Amino acid count in op strand: 116
+
+Aminoacid in main strand: met-trp-val-ile-phe-asn-leu-gly-leu-phe-tyr-met-leu-met-glu-cys-leu-leu-leu-asn-met-ile-leu-gln-ala-ala-leu-met-val-leu-val-thr-asn-his-thr-glu-met-cys-gln-phe-gln-leu-gln-trp-phe-asn-arg-his-arg-cys-ser-tyr-met-phe-phe-trp-trp-cys-gln-cys-tyr-asn-thr-arg-asn-lys-tyr-phe-met-phe-phe-lys-his-val-gln-ala-val-met-lys-met-arg-thr-lys-asn-met-val-met-ala-his-thr-gly-leu-met-leu-met-leu-ile-met-leu-gln-leu-met-ser-ser-ile
+Aminoacid code in main strand: M-W-V-I-F-N-L-G-L-F-Y-M-L-M-E-C-L-L-L-N-M-I-L-Q-A-A-L-M-V-L-V-T-N-H-T-E-M-C-Q-F-Q-L-Q-W-F-N-R-H-R-C-S-Y-M-F-F-W-W-C-Q-C-Y-N-T-R-N-K-Y-F-M-F-F-K-H-V-Q-A-V-M-K-M-R-T-K-N-M-V-M-A-H-T-G-L-M-L-M-L-I-M-L-Q-L-M-S-S-I-
+Amino acid count in main strand: 105
+Aminoacid in op strand: met-glu-pro-ser-asn-ile-gly-lys-glu-arg-met-val-gly-gln-gly-tyr-gln-thr-ser-met-asp-his-tyr-lys-ile-glu-ile-his-arg-leu-met-gln-ile-trp-trp-arg-met-arg-asn-tyr-ile-gly-gln-asn-asn-gln-gln-his-ser-cys-met-val-gly-asn-gln-his-his-met-val-met-asp-met-ala-ile-glu-leu-leu-glu-met-asp-leu-val-ile-phe-val-lys-asn-met-ile-ala-leu-ser-thr-lys-ile-asn-ser-phe-met-arg-cys-met-ile-cys-gly-ser-met-tyr-asp-ser-met-ala-ile-leu-tyr-thr-ala-his-thr-phe-gln-val-leu-gly-asp-arg-met-cys-asn-val-ile
+Aminoacid code in op strand: M-E-P-S-N-I-G-K-E-R-M-V-G-Q-G-Y-Q-T-S-M-D-H-Y-K-I-E-I-H-R-L-M-Q-I-W-W-R-M-R-N-Y-I-G-Q-N-N-Q-Q-H-S-C-M-V-G-N-Q-H-H-M-V-M-D-M-A-I-E-L-L-E-M-D-L-V-I-F-V-K-N-M-I-A-L-S-T-K-I-N-S-F-M-R-C-M-I-C-G-S-M-Y-D-S-M-A-I-L-Y-T-A-H-T-F-Q-V-L-G-D-R-M-C-N-V-I-
+Amino acid count in op strand: 121
+
